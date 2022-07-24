@@ -386,7 +386,7 @@ hr {
   top: calc(2rem + 82px);
   border: 1px solid #2d2a26;
   background-color: #307fe2;
-  background: url(/images/Noise.png), url(/images/background-image__sticky.jpg);
+  background: url(./images/Noise.png), url(./images/background-image__sticky.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -449,7 +449,7 @@ hr {
   position: sticky;
   top: calc(2rem + 82px);
   background-color: #307fe2;
-  background: url(/images/Noise.png), url(/images/background-image__sticky.jpg);
+  background: url(./images/Noise.png), url(./images/background-image__sticky.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   border: 1px solid #2d2a26;
@@ -528,7 +528,7 @@ hr {
   position: sticky;
   top: calc(2rem + 82px);
   background-color: #307fe2;
-  background: url(/images/Noise.png), url(/images/background-image__sticky.jpg);
+  background: url(./images/Noise.png), url(./images/background-image__sticky.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   border: 1px solid #2d2a26;
@@ -908,7 +908,7 @@ hr {
   width: 100%;
   background-repeat: cover;
   background-size: cover;
-  background-image: url(/images/tiktoc__bg.png);
+  background-image: url(./images/tiktoc__bg.png);
   display: flex;
   flex-direction: column;
   align-items: center;
